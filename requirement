@@ -1,12 +1,4 @@
-Flask==2.3.2
-google-auth==2.22.0
-google-auth-oauthlib==0.6.1
-google-api-python-client==2.100.0
-google-cloud-texttospeech==2.10.0
-google-cloud-speech==2.23.0
-twilio==7.14.0
-openai==0.27.0
-pytz==2024.0
-requests==2.31.0
-httplib2==0.22.0
-pickle5==0.0.11
+speechrecognition
+pyttsx3
+google-generativeai
+
